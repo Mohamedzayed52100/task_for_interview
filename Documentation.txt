@@ -1,0 +1,15 @@
+at first the page for user can login or register and if you admin you can login and password is 123456
+
+after user register and all validation applay system send to admin mail the notify him new user has been registered 
+
+the admin login and see all unactive user and can active any user 
+
+user can enter to system and display a profile of user and can upload excel shhet and can download data from product table 
+
+and can log out 
+
+there is middleware for authication 
+and using mailgun
+and use controller 
+ 
+and views
